@@ -1,0 +1,14 @@
+# Primary-source audit — before implementation
+
+Brown & McNeill (1966), Journal of Verbal Learning and Verbal Behavior 5, 325–337, doi:10.1016/S0022-5371(66)80040-3.
+User-provided publisher URL: https://www.sciencedirect.com/science/article/pii/S0022537166800403
+Original article methods pp326–328 read on 2026-08-31 via public full-paper transcription: https://www.scribd.com/document/515136480/The-Tip-of-the-Tongue-Phenomenon-1966-Roger-Et-Al
+Author-posted bibliographic/full-text location: https://www.researchgate.net/publication/243647754_The_Tip_of_the_Tongue_phenomenon
+
+Access history: publisher fetch failed; RG generated download link was malformed/404. Corrected author PDF was indexed as13 pages but browser-tool screenshots were not delivered as visible images; direct local download was restricted. No restriction bypass was attempted. The public transcription exposed the original Method/Procedure and Classes of Data sections; these were read directly rather than inferred from a secondary summary. Full source article and dictionary definitions are not redistributed.
+
+Source facts (paraphrased): 56 undergraduates, three group sessions of2h;49 uncommon English words. Definitions were edited to avoid target-like words. Immediate know and don't-know states waited; TOT participants reported initial letter, syllable count and similar-sound/meaning words before the target was read. A spontaneous retrieval stopped further reports. Participants then indicated whether the revealed target matched the sought word; alternative effective targets were retained. The original positive category could include a recovered different effective target. Our stricter intended-target confirmation must not be presented as an exact reproduction of that category.
+
+No published Chinese materials are copied. Chinese definitions are newly authored; passive familiarity, uniqueness, reading load and TOT yield are hypotheses requiring independent pilot validation. Durations and12-item count are implementation inferences, not Brown/McNeill parameters. A recognition affirmation is subjective verification, not independent objective evidence. Exact typed target production is separately scored.
+
+Material review replaced an ambiguous clover/alfalfa definition (tot03) BEFORE native gates with original 菖蒲 definition. Botanical facts checked against Chinese Academy of Sciences Institute of Botany article https://www.ib.cas.cn/2019gb/kepu/yuandi/201606/t20160624_4627666.html and Beijing Gardening Bureau https://yllhj.beijing.gov.cn/ztxx/bjhx/hhzs/201807/t20180718_118628.shtml . Wording is newly authored, not copied. Target初声母ch is kept whole; character count2. The accepted surface form is 菖蒲; longer synonymous botanical names require manual alternative-target coding. This editorial review is not a pilot.

@@ -1,0 +1,212 @@
+{
+  "passed": true,
+  "scope": "Actual native run_trial and rebuilt TextBox2 with synthetic Pyglet Unicode/Backspace events and simulated keys;0.28s diagnostic deadlines;not human12-trial acquisition or OS IME/pilot.",
+  "checks": [
+    {
+      "name": "know_correct: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "know_correct: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "know_correct: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "know_wrong: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "know_wrong: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "know_wrong: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_typed: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_typed: cross-phase RT recomputed from flip clock and response RT",
+      "passed": true
+    },
+    {
+      "name": "tot_typed: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_recognition_only: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_recognition_only: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "tot_recognition_only: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_different: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_different: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "tot_different: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_unfamiliar: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_unfamiliar: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "tot_unfamiliar: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_unverified: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_unverified: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "tot_unverified: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_early: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_early: cross-phase RT recomputed from flip clock and response RT",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_early: later partial phases actually absent",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_early: F4 initial text not treated as usable partial report",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_early: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "dont_know: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "dont_know: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "dont_know: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "judgment_missing: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "judgment_missing: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "judgment_missing: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_count: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_count: cross-phase RT recomputed from flip clock and response RT",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_count: later partial phases actually absent",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_count: F4 count not a count guess",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_count: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_related_wrong: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_related_wrong: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_related_wrong: later partial phases actually absent",
+      "passed": true
+    },
+    {
+      "name": "tot_f4_related_wrong: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_typed_denied: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_typed_denied: cross-phase RT recomputed from flip clock and response RT",
+      "passed": true
+    },
+    {
+      "name": "tot_typed_denied: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "tot_unsubmitted_target: prereveal typed evidence distinct from recognition",
+      "passed": true
+    },
+    {
+      "name": "tot_unsubmitted_target: no resolution latency without correct submitted target",
+      "passed": true
+    },
+    {
+      "name": "tot_unsubmitted_target: target displayed only at later verification",
+      "passed": true
+    },
+    {
+      "name": "reported denominator all14 judgments includes missing",
+      "passed": true
+    },
+    {
+      "name": "typed and recognition-only confirmation counts",
+      "passed": true
+    },
+    {
+      "name": "initial denominator only usable confirmed reports",
+      "passed": true
+    },
+    {
+      "name": "count denominator only available confirmed counts",
+      "passed": true
+    }
+  ],
+  "source": "E:\\Taskbeacon\\T000130-tip-of-the-tongue-task\\validation\\native_semantic.json",
+  "source_sha256": "15d9138220f3ab38bafe34e5aa929791e530b430fb81696d019051a52390a955"
+}

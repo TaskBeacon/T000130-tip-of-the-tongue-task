@@ -1,0 +1,18 @@
+{
+  "seed": 130031,
+  "conditions": [
+    "tot11",
+    "tot06",
+    "tot10",
+    "tot05",
+    "tot09",
+    "tot03",
+    "tot02",
+    "tot07",
+    "tot08",
+    "tot01",
+    "tot12",
+    "tot04"
+  ],
+  "generator": "actual PsyFlow BlockUnit.generate_conditions; native random.Random"
+}

@@ -1,0 +1,22 @@
+task_id: T000130-tip-of-the-tongue-task
+generated_at: '2026-08-30T21:41:55Z'
+selection_policy: provided_source_plus_supporting_literature
+citation_threshold: 100
+papers:
+- id: BROWN1966
+  title: The Tip of the Tongue Phenomenon
+  authors: []
+  year: 1966
+  journal: Journal of Verbal Learning and Verbal Behavior
+  doi_or_url: https://doi.org/10.1016/S0022-5371(66)80040-3
+  citation_count: null
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - primary_protocol_source
+  - task_workflow
+  - stimulus_specification
+  - timing_parameters
+  parameter_bindings: {}
+  notes: Original methods pp326-328 read via public primary transcription; no source
+    materials redistributed; see source_audit.md

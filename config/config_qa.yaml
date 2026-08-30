@@ -1,0 +1,539 @@
+subinfo_fields:
+- name: subject_id
+  type: int
+  constraints:
+    min: 101
+    max: 999
+    digits: 3
+subinfo_mapping:
+  subject_id: 被试编号（3位数字）
+  Participant Information: 被试信息
+  registration_failed: 登记失败
+  registration_successful: 登记成功
+  invalid_input: '{field} 输入无效'
+window:
+  size:
+  - 1280
+  - 800
+  units: pix
+  screen: 0
+  bg_color: white
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 60
+task:
+  task_name: Tip-of-the-Tongue Elicitation Task
+  save_path: ./outputs/human
+  language: Chinese
+  voice_enabled: false
+  voice_name: zh-CN-YunyangNeural
+  total_blocks: 1
+  total_trials: 4
+  trial_per_block: 4
+  conditions:
+  - tot01
+  - tot02
+  - tot03
+  - tot04
+  condition_weights: null
+  key_list:
+  - space
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '0'
+  - f2
+  - f4
+  continue_key: space
+  submit_key: f2
+  resolved_key: f4
+  judgment_keys:
+  - '1'
+  - '2'
+  - '3'
+  verification_keys:
+  - '1'
+  - '2'
+  - '3'
+  count_keys:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '0'
+  seed_mode: same_across_sub
+  overall_seed: 130031
+  response_mode: text
+  hide_cursor: false
+  delta: 0.0
+  material_version: tot-zh-authored-1
+  items:
+    tot01:
+      target: 日晷
+      definition: '古人利用太阳照出的指针影子，
+
+        在刻有时刻的盘面上读出时间的器具。'
+      initial_sound: r
+      character_count: 2
+      accepted:
+      - 日晷
+    tot02:
+      target: 榫卯
+      definition: '木构件连接时，一端凸出、另一端凹入，
+
+        彼此嵌合而不靠钉子的连接结构。'
+      initial_sound: s
+      character_count: 2
+      accepted:
+      - 榫卯
+    tot03:
+      target: 菖蒲
+      definition: '端午节常和艾草一起挂起、叶片像剑，
+
+        全株有香气、常生长在水边的植物。'
+      initial_sound: ch
+      character_count: 2
+      accepted:
+      - 菖蒲
+    tot04:
+      target: 缫丝
+      definition: '把蚕茧放进热水，再抽出长丝并合，
+
+        制作生丝的加工过程。'
+      initial_sound: s
+      character_count: 2
+      accepted:
+      - 缫丝
+      - 繅絲
+    tot05:
+      target: 耄耋
+      definition: '古汉语中泛指八九十岁高龄的说法，
+
+        常用于祝贺老人长寿。'
+      initial_sound: m
+      character_count: 2
+      accepted:
+      - 耄耋
+    tot06:
+      target: 司南
+      definition: '中国古代用天然磁石制成的辨向器具，
+
+        常见复原形状为盘上的一把勺子。'
+      initial_sound: s
+      character_count: 2
+      accepted:
+      - 司南
+    tot07:
+      target: 三棱镜
+      definition: '横截面呈三角形的透明光学器件，
+
+        可以把白光分解成不同颜色。'
+      initial_sound: s
+      character_count: 3
+      accepted:
+      - 三棱镜
+      - 三稜鏡
+    tot08:
+      target: 走马灯
+      definition: '一种传统彩灯，内部转动的轮轴带着剪影，
+
+        使外罩上出现人物或动物循环移动的影像。'
+      initial_sound: z
+      character_count: 3
+      accepted:
+      - 走马灯
+      - 走馬燈
+    tot09:
+      target: 螺旋桨
+      definition: '围绕轴心转动的多片叶片装置，
+
+        把旋转动力变为推动船只或飞机的力。'
+      initial_sound: l
+      character_count: 3
+      accepted:
+      - 螺旋桨
+      - 螺旋槳
+    tot10:
+      target: 海市蜃楼
+      definition: '远处景物的光线经过空气折射，
+
+        使海面或沙漠上出现虚幻景象的自然现象。'
+      initial_sound: h
+      character_count: 4
+      accepted:
+      - 海市蜃楼
+      - 海市蜃樓
+    tot11:
+      target: 昙花
+      definition: '花朵很大、白色，常在夜间开放，
+
+        而且开花时间很短的仙人掌科植物。'
+      initial_sound: t
+      character_count: 2
+      accepted:
+      - 昙花
+      - 曇花
+    tot12:
+      target: 榻榻米
+      definition: '日式房间中铺在地板上、
+
+        可供坐卧的长方形草编席垫。'
+      initial_sound: t
+      character_count: 3
+      accepted:
+      - 榻榻米
+  synthetic_fixture: true
+timing:
+  fixation_duration: 0.5
+  judgment_duration: 20.0
+  known_answer_duration: 15.0
+  initial_sound_duration: 10.0
+  character_count_duration: 8.0
+  related_words_duration: 10.0
+  resolution_duration: 15.0
+  verification_duration: 10.0
+  alternative_target_duration: 10.0
+  saved_duration: 0.5
+stimuli:
+  instruction:
+    type: text
+    font: SimHei
+    text: '舌尖现象任务
+
+
+      每题读一段定义，判断你现在能否想起对应词语。
+
+      按1：已经想起；按2：确信知道、快想起来却说不出；按3：不知道。
+
+      只有第二种“就在嘴边”的体验才算舌尖状态，不必勉强报告。
+
+
+      选1后输入答案。选2后报告声母、字数及相关词，再尝试找答案。
+
+      声母写完整拼音声母（如 zh/ch/sh）；零声母写0，不用 y/w。
+
+      声母不记得可留空；字数按1至4，不知道按0。
+
+      部分信息阶段若突然想起完整词语，立即按F4，转到完整答案输入。
+
+      文本写好后按F2提交；回车只用于编辑或确认输入法。
+
+      每个文本框会清空。只记得读音、不记得汉字的情况不要当作舌尖状态。
+
+
+      最后会显示预设词语，请如实核验是否就是你寻找的词。
+
+      共12题，题间可休息。这些新编材料没有常模，不作个人能力判断。
+
+      按空格开始。'
+    color: black
+    height: 23
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 0
+  ready:
+    type: text
+    font: SimHei
+    text: '下一题
+
+
+      准备好后按空格开始。'
+    color: black
+    height: 24
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 0
+  fixation:
+    type: text
+    font: SimHei
+    text: +
+    color: black
+    height: 36
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 0
+  definition:
+    type: text
+    font: SimHei
+    text: '{definition}'
+    color: black
+    height: 26
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 225
+  judgment_prompt:
+    type: text
+    font: SimHei
+    text: 你现在能否想起定义所指的词？
+    color: black
+    height: 24
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 110
+  judgment_options:
+    type: text
+    font: SimHei
+    text: '1　已经想起
+
+
+      2　确信知道，快想起来却说不出
+
+
+      3　不知道'
+    color: black
+    height: 24
+    wrapWidth: 1080
+    pos:
+    - 0
+    - -30
+  known_answer_prompt:
+    type: text
+    font: SimHei
+    text: 请输入你已经想起的完整词语（最多15秒）
+    color: black
+    height: 24
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 110
+  initial_sound_prompt:
+    type: text
+    font: SimHei
+    text: 只输入第一个字的拼音声母，例如 sh；不知道可留空（10秒）
+    color: black
+    height: 22
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 110
+  character_count_prompt:
+    type: text
+    font: SimHei
+    text: 你觉得完整词语有几个汉字？（最多8秒）
+    color: black
+    height: 24
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 110
+  count_options:
+    type: text
+    font: SimHei
+    text: '1　一个字　　2　两个字　　3　三个字　　4　四个字
+
+
+      0　不知道'
+    color: black
+    height: 23
+    wrapWidth: 1080
+    pos:
+    - 0
+    - -20
+  related_words_prompt:
+    type: text
+    font: SimHei
+    text: 可写想到的近音词、近义词，并注明“音”或“义”（10秒）
+    color: black
+    height: 22
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 110
+  resolution_prompt:
+    type: text
+    font: SimHei
+    text: 若已想起，请输入完整词语；仍未想起可留空提交（15秒）
+    color: black
+    height: 22
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 110
+  entry_hint:
+    type: text
+    font: SimHei
+    text: 文字确认上屏后按F2提交。回车不会提交。
+    color: black
+    height: 20
+    wrapWidth: 1080
+    pos:
+    - 0
+    - -145
+  partial_hint:
+    type: text
+    font: SimHei
+    text: F2提交部分信息；若突然想起完整词，立即按F4。
+    color: black
+    height: 20
+    wrapWidth: 1080
+    pos:
+    - 0
+    - -145
+  count_hint:
+    type: text
+    font: SimHei
+    text: 按数字作答；若突然想起完整词，立即按F4。
+    color: black
+    height: 20
+    wrapWidth: 1080
+    pos:
+    - 0
+    - -145
+  verification_target:
+    type: text
+    font: SimHei
+    text: 预设词语：{target}
+    color: black
+    height: 30
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 225
+  verification_prompt:
+    type: text
+    font: SimHei
+    text: 这是否就是你刚才寻找（或已经想起）的词？
+    color: black
+    height: 24
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 110
+  verification_options:
+    type: text
+    font: SimHei
+    text: '1　是，我原先就知道这个词
+
+
+      2　不是，我想的是别的词
+
+
+      3　不熟悉这个词，或不能确定'
+    color: black
+    height: 24
+    wrapWidth: 1080
+    pos:
+    - 0
+    - -30
+  alternative_target_prompt:
+    type: text
+    font: SimHei
+    text: 若记得你刚才找的另一个词，请填写；否则留空（10秒）
+    color: black
+    height: 22
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 110
+  saved:
+    type: text
+    font: SimHei
+    text: 本题已保存。
+    color: black
+    height: 24
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 0
+  good_bye:
+    type: text
+    font: SimHei
+    text: '任务完成，谢谢参与。
+
+
+      新编材料尚未预测试，没有个人能力常模。
+
+      按空格结束并保存数据。'
+    color: black
+    height: 24
+    wrapWidth: 1080
+    pos:
+    - 0
+    - 0
+  editor:
+    type: textbox
+    font: SimHei
+    text: ''
+    color: black
+    pos:
+    - 0
+    - -10
+    size:
+    - 1000
+    - 140
+    letterHeight: 28
+    alignment: left
+    editable: true
+    fillColor: white
+    borderColor: '#777777'
+    borderWidth: 1
+triggers:
+  map:
+    experiment_start: 1
+    experiment_end: 99
+    fixation_onset: 10
+    saved_onset: 95
+    judgment_onset: 20
+    judgment_response: 21
+    judgment_no_response: 29
+    known_answer_onset: 30
+    known_answer_response: 31
+    known_answer_no_response: 39
+    initial_sound_onset: 40
+    initial_sound_response: 41
+    initial_sound_no_response: 49
+    character_count_onset: 50
+    character_count_response: 51
+    character_count_no_response: 59
+    related_words_onset: 60
+    related_words_response: 61
+    related_words_no_response: 69
+    resolution_onset: 70
+    resolution_response: 71
+    resolution_no_response: 79
+    verification_onset: 80
+    verification_response: 81
+    verification_no_response: 89
+    alternative_target_onset: 90
+    alternative_target_response: 91
+    alternative_target_no_response: 92
+    judgment_tot: 22
+    judgment_dont_know: 23
+    initial_sound_resolved: 42
+    character_count_resolved: 52
+    related_words_resolved: 62
+    verification_different: 82
+    verification_unknown: 83
+  driver:
+    type: mock
+  policy:
+    strict: false
+  timing:
+    post_delay_s: 0.0
+qa:
+  output_dir: outputs/qa
+  enable_scaling: false
+  timing_scale: 1
+  min_frames: 2
+  strict: false
+  max_wait_s: 60
+  acceptance_criteria:
+    required_columns:
+    - trial_id
+    - condition
+    - judgment
+    - reported_tot
+    - confirmed_tot
+    - spontaneous_resolved
+    expected_trial_count: 4
+    triggers_required: true
+responder:
+  type: responders.task_sampler:TaskSamplerResponder
+  kwargs:
+    rt_s: 0.12

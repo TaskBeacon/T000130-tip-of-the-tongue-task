@@ -1,0 +1,2258 @@
+[
+  {
+    "judgment": "know",
+    "verification": "1",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": true,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": "1",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": "1",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": "2",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": true,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": "2",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": "2",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": "3",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": true,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": "3",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": "3",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": null,
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": true,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": null,
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "know",
+    "verification": null,
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": "1",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": true,
+      "confirmation_basis": "both",
+      "recognition_confirmed": true,
+      "typed_confirmed": true,
+      "tot_class": "confirmed_intended",
+      "known_correct": false,
+      "spontaneous_resolved": true,
+      "resolution_latency_s": 1.5,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": true,
+      "initial_sound_correct": true,
+      "character_count_guess": 2,
+      "character_count_correct": true
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": "1",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": true,
+      "confirmation_basis": "recognition",
+      "recognition_confirmed": true,
+      "typed_confirmed": false,
+      "tot_class": "confirmed_intended",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": true,
+      "initial_sound_correct": true,
+      "character_count_guess": 2,
+      "character_count_correct": true
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": "1",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": true,
+      "confirmation_basis": "recognition",
+      "recognition_confirmed": true,
+      "typed_confirmed": false,
+      "tot_class": "confirmed_intended",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": true,
+      "initial_sound_correct": true,
+      "character_count_guess": 2,
+      "character_count_correct": true
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": "2",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": true,
+      "confirmation_basis": "typed",
+      "recognition_confirmed": false,
+      "typed_confirmed": true,
+      "tot_class": "confirmed_intended",
+      "known_correct": false,
+      "spontaneous_resolved": true,
+      "resolution_latency_s": 1.5,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": true,
+      "initial_sound_correct": true,
+      "character_count_guess": 2,
+      "character_count_correct": true
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": "2",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "different_target",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": "2",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "different_target",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": "3",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": true,
+      "confirmation_basis": "typed",
+      "recognition_confirmed": false,
+      "typed_confirmed": true,
+      "tot_class": "confirmed_intended",
+      "known_correct": false,
+      "spontaneous_resolved": true,
+      "resolution_latency_s": 1.5,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": true,
+      "initial_sound_correct": true,
+      "character_count_guess": 2,
+      "character_count_correct": true
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": "3",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "unfamiliar_or_unsure",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": "3",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "unfamiliar_or_unsure",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": null,
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": true,
+      "confirmation_basis": "typed",
+      "recognition_confirmed": false,
+      "typed_confirmed": true,
+      "tot_class": "confirmed_intended",
+      "known_correct": false,
+      "spontaneous_resolved": true,
+      "resolution_latency_s": 1.5,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": true,
+      "initial_sound_correct": true,
+      "character_count_guess": 2,
+      "character_count_correct": true
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": null,
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "unverified",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "tot",
+    "verification": null,
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "tot",
+      "reported_tot": true,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "unverified",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": "1",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": "1",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": "1",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": "2",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": "2",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": "2",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": "3",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": "3",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": "3",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": null,
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": null,
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "dont_know",
+    "verification": null,
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "dont_know",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": "1",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": "1",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": "1",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "1",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": "2",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": "2",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": "2",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "2",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": "3",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": "3",
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": "3",
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": "3",
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": null,
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": true,
+      "correct": true,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": null,
+    "attempt": {
+      "response_text": "错误",
+      "normalized_text": "错误",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.25
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  },
+  {
+    "judgment": "missing",
+    "verification": null,
+    "attempt": {
+      "response_text": "日晷",
+      "normalized_text": "日晷",
+      "submitted": false,
+      "correct": false,
+      "submit_rt_s": null
+    },
+    "initial": {
+      "response_text": "r",
+      "normalized_text": "r",
+      "submitted": true,
+      "correct": false,
+      "submit_rt_s": 0.1
+    },
+    "count": "2",
+    "item": {
+      "target": "日晷",
+      "definition": "古人利用太阳照出的指针影子，\n在刻有时刻的盘面上读出时间的器具。",
+      "initial_sound": "r",
+      "character_count": 2,
+      "accepted": [
+        "日晷"
+      ]
+    },
+    "latency": 1.5,
+    "expected": {
+      "judgment": "missing",
+      "reported_tot": false,
+      "confirmed_tot": false,
+      "confirmation_basis": "none",
+      "recognition_confirmed": false,
+      "typed_confirmed": false,
+      "tot_class": "not_tot",
+      "known_correct": false,
+      "spontaneous_resolved": false,
+      "resolution_latency_s": null,
+      "verification": null,
+      "initial_sound_guess": "r",
+      "initial_sound_usable": false,
+      "initial_sound_correct": null,
+      "character_count_guess": 2,
+      "character_count_correct": null
+    }
+  }
+]

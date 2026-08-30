@@ -1,0 +1,29 @@
+[taps-validate] task=E:\Taskbeacon\T000130-tip-of-the-tongue-task contracts=v0.2.0
++ [PASS] taskbeacon
+! [WARN] required_files
+  - WARN: Missing recommended path: outputs/
+  suggestion: Add recommended paths for easier operations and artifact management.
+! [WARN] gitignore
+  - WARN: .gitignore missing recommended ignore rule group 'mypy_cache' (any of: ['.mypy_cache/', '/.mypy_cache/'])
+  - WARN: .gitignore missing recommended ignore rule group 'venv' (any of: ['.venv/', '/.venv/', 'venv/', '/venv/'])
+  suggestion: Add recommended .gitignore housekeeping rules for cleaner task repos.
++ [PASS] config_base
++ [PASS] config_qa
++ [PASS] config_scripted_sim
++ [PASS] config_sampler_sim
++ [PASS] responder_plugin
++ [PASS] runtime_main
+! [WARN] responder_context
+  - WARN: Missing recommended trial context field argument: task_factors=
+  - WARN: No recommended phase tokens found (any): ['choice', 'cue', 'decision', 'feedback', 'fixation', 'iti', 'reach', 'response', 'target']; got none
+  suggestion: Include condition/block/task_factors context for richer simulation and audits.
++ [PASS] readme_meta
+! [WARN] changelog
+  - WARN: Missing recommended changelog section: Changed
+  - WARN: Missing recommended changelog section: Fixed
++ [PASS] reference_artifacts
+! [WARN] artifacts
+  - WARN: outputs/qa not found; QA artifact checks skipped.
+  - WARN: outputs/sim not found; sim artifact checks skipped.
+  suggestion: Run representative QA/sim sessions so artifact conventions are exercised.
+[taps-validate] summary: PASS=9 WARN=5 FAIL=0

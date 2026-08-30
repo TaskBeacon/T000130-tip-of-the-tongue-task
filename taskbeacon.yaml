@@ -1,0 +1,23 @@
+id: T000130
+slug: tip-of-the-tongue-task
+title: Tip-of-the-Tongue Elicitation Task
+acquisition: behavior
+variant: baseline
+license: MIT
+language: Chinese
+canonical: true
+cognitive_domain:
+- metamemory
+- lexical-retrieval
+maturity: smoke_tested
+version:
+  release_tag: v0.1.0
+contracts:
+  taps: v0.2.0
+runtime:
+  profile: psyflow
+  entrypoint: main.py
+evidence:
+- https://doi.org/10.1016/S0022-5371(66)80040-3
+maintainer:
+- TaskBeacon
